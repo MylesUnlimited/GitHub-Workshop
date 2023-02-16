@@ -21,6 +21,7 @@ def student_init():
     stud4 = Student(10633211, "Dorian","Freeman", 26, list_of_majors[3])
     stud5 = Student(10655321,"Mary","Jones", 21, list_of_majors[4])
     stud6 = Student(10669520, "Myles", "Davie", 20, list_of_majors[0])
+    '''Big Testing'''
     list_of_active_students.extend([stud1,stud2,stud3,stud4,stud5])
 
 
